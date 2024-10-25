@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.barradenav {
+    background-color: #a1bcd6;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.hero {
+    background: url('./img/bgimg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    max-width: 1200px;
+    color: white;
+    margin: 0 auto;
+    padding: 0 15px;
+    font-size: 200%;
+}
+.quemsomos{
+    text-decoration: none;
+    color: grey;
+}
+.quemsomos:hover{
+    color: blue;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+.botoesa {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.botoesa:hover {
+    background-color: #0056b3;
+}
