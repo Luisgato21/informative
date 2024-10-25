@@ -42,6 +42,7 @@ body {
     height: 50fr;   
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(500px,1fr));
+    gap: 15px;
 }
 .botoesa {
     background-color: #007bff;
