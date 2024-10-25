@@ -12,7 +12,7 @@ body {
     justify-content: space-between;
     position: relative;
 }
-.hero {
+.here {
     background: url('./img/bgimg.jpg') no-repeat center center/cover;
     height: 100vh;
     color: black;
